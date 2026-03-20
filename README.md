@@ -4,8 +4,8 @@ Welcome to my data portfolio! Here, I compile the summary of my personal and aca
 
 ## Python 
 
-| Project Link | | Tools | Project Description |
-|---|---|---|---|
+| Project Link | Tools | Project Description |
+|---|---|---|
 | [Global Economic Indicator](https://github.com/elaijah18/Data-Analysis-using-Python/blob/main/Global_Economic_Indicator.ipynb)| pandas, seaborn | Analyzed economic conditions of every country and how it determine the nation's stability and financial health. |
 
 
