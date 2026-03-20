@@ -4,7 +4,10 @@ Welcome to my data portfolio! Here, I compile the summary of my personal and aca
 
 # Python 
 
-| Project Link | Project Description | Libraries
+## 📊 Data Analytics
+
+| Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
+| [📺 TV Show vs Movie](your-tableau-public-link) | March 2026 | MySQL, Tableau | Analyzed TV show and movie trends including top actors, directors, genres, and countries using MySQL queries and an interactive Tableau dashboard. |
 
 
