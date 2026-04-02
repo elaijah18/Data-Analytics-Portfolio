@@ -14,5 +14,6 @@ Welcome to my data portfolio! Here, I compile the summary of my personal and aca
 | Project Link | Tools | Project Description |
 |---|---|---|
 | [Netflix TV Show and Movies](https://github.com/elaijah18/Netflix-TV-Show-and-Movies)| MySQL, Tableau | Analysis of more than 8,000 Netflix Movies and TV Shows where I answered various questions such as: Which actor has the most shows? Which country produced the most shows? Does Netflix have more focus on movies than TV shows in recent years?, etc.|
+| [Adidas US Sales](https://github.com/elaijah18/Adidas-US-Sales)| MySQL, Tableau | A business case study on the US Sales of Adidas where I analyzed which region and states earned the highest revenue, and how the difference in the number of units sold is different from the total profit earned. |
 
 
